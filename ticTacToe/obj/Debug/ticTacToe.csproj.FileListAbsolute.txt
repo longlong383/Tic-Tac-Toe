@@ -1,0 +1,8 @@
+C:\Users\aricq\OneDrive - Algoma District School Board\Grade 12 work\Semester 2\ICS4U1\ticTacToe\ticTacToe\bin\Debug\ticTacToe.exe.config
+C:\Users\aricq\OneDrive - Algoma District School Board\Grade 12 work\Semester 2\ICS4U1\ticTacToe\ticTacToe\bin\Debug\ticTacToe.exe
+C:\Users\aricq\OneDrive - Algoma District School Board\Grade 12 work\Semester 2\ICS4U1\ticTacToe\ticTacToe\bin\Debug\ticTacToe.pdb
+C:\Users\aricq\OneDrive - Algoma District School Board\Grade 12 work\Semester 2\ICS4U1\ticTacToe\ticTacToe\obj\Debug\ticTacToe.csproj.AssemblyReference.cache
+C:\Users\aricq\OneDrive - Algoma District School Board\Grade 12 work\Semester 2\ICS4U1\ticTacToe\ticTacToe\obj\Debug\ticTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\aricq\OneDrive - Algoma District School Board\Grade 12 work\Semester 2\ICS4U1\ticTacToe\ticTacToe\obj\Debug\ticTacToe.csproj.CoreCompileInputs.cache
+C:\Users\aricq\OneDrive - Algoma District School Board\Grade 12 work\Semester 2\ICS4U1\ticTacToe\ticTacToe\obj\Debug\ticTacToe.exe
+C:\Users\aricq\OneDrive - Algoma District School Board\Grade 12 work\Semester 2\ICS4U1\ticTacToe\ticTacToe\obj\Debug\ticTacToe.pdb
